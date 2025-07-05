@@ -1,7 +1,7 @@
 # NeutraScan-Ai-Buddy-Design-Hackathon
 This repository is all about the project i built in design Hackathon
 
-# Nutroascan — Your Calm Food Companion
+# Nutrascan AI Nutrition Buddy
 
 Nutrascan is a voice-first, nutrition-aware system designed for real families. It helps young people eat better and quietly take care of their parents — without pressure, guilt, or complex tracking.
 
