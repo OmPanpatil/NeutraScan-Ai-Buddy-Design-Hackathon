@@ -77,4 +77,4 @@ MIT because the world needs more tools that listens.
 
 ---
 
-Made with care, not pressure by people who skip breakfast sometimes too.
+Made with care!
